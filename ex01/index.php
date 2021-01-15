@@ -7,6 +7,7 @@
 </head>
 <body>
     <?php 
+//Faire une fonction qui retourne true.
 
     function returnTrueFunction() {
         return true;

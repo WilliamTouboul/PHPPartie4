@@ -8,6 +8,8 @@
 <body>
 
 <?php
+// Faire une fonction qui prend en paramètre deux chaines de caractères et qui revoit la concaténation de ces deux chaines.
+
 function concatenation($s1,$s2) {
     echo $s1.' '.$s2;
     return ($s1.$s2);

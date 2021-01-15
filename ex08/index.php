@@ -10,6 +10,11 @@
 <body>
 
     <?php
+    //     Faire une fonction qui prend en paramètre trois nombres et qui renvoit la somme de ces nombres.  
+    // Tous les paramètres doivent avoir une valeur par défaut.
+    // Bonus : Faire une fonction qui prend un nombre variable de paramètres et qui renvoie la somme des valeurs passées en arguments.
+
+
 
     // Fonction pour addtionnier 3 nombres avec des valeurs par défaut :
     function SumNumbers($numb1 = 5, $numb2 = 11, $numb3 = 6)

@@ -10,7 +10,9 @@
 <body>
 
     <?php
+    // Faire une fonction qui prend en paramètre : un nombre. Elle doit renvoyer le factoriel de ce nombre.
 
+    // Bonus : faire une fonction recursive
     function factor($number)
     {
         if ($number === 0) // condition d'arret, quand le chiffre atteint 0.

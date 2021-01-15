@@ -10,6 +10,7 @@
 <body>
 
     <?php
+//Faire une fonction qui prend en paramètre un nombre et une chaine de caractères et qui renvoit la concaténation de ces deux paramètres.
 
     function exo5(string $var1, int $var2)
     {
